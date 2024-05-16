@@ -1,3 +1,3 @@
 # portfolio
-my portfolio project
-live link [here](http://simeon-osiemo-portfolio.netlify.app/)
+my portfolio project to showcase my skills
+live link [here](https://brian-portfolio-website.netlify.app/)
